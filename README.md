@@ -66,9 +66,9 @@
 <img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/TotalError.png" width="400"/>
 </figure>
 
-<figure>
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/GIF2.gif" width="400"/>
-</figure>
+<p float="left">
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/GiF2.gif" width="400"/>
+</p>
 
 ## Замечания
 
