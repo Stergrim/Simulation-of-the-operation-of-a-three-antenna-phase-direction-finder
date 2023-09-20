@@ -34,31 +34,31 @@
 
 
 <figure>
-<img src="C:/operator/Github/demos/ModelPMD.png" width="1400"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/tree/main/demos/ModelPMD.png" width="1400"/>
 
 ***Рисунок 1 - ххх***
 </figure>
 
 <figure>
-<img src="C:/operator/Github/demos/PhaseDetect.png" width="600"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/tree/main/demos/PhaseDetect.png" width="600"/>
 
 ***Рисунок 2 - ххх***
 </figure>
 
 <figure>
-<img src="C:/operator/Github/demos/PeriodDetect.png" width="600"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/tree/main/demos/PeriodDetect.png" width="600"/>
 
 ***Рисунок 3 - ххх***
 </figure>
 
 <figure>
-<img src="C:/operator/Github/demos/CalcPhaseDiff.png" width="600"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/tree/main/demos/CalcPhaseDiff.png" width="600"/>
 
 ***Рисунок 4 - ххх***
 </figure>
 
 <figure>
-<img src="C:/operator/Github/demos/ErrorPMD.png" width="600"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/tree/main/demos/ErrorPMD.png" width="600"/>
 
 ***Рисунок 5 - ххх***
 </figure>
