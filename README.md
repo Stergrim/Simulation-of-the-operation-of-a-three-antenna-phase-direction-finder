@@ -45,16 +45,16 @@
 излучатель в следующую точку траектории и запускает симуляцию.
 
 Более подробное описание работы измерителя разности фаз приведено в каталоге
-[`direction_finder`](C:/operator/Github/direction_finder/README.md).
+[`direction_finder`](https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/direction_finder/README.md).
 
 <figure>
-<img src="C:/operator/Github/demos/Model.png" width="1400"
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/Model.png" width="1400"
 
 ***Рисунок 1 - Модель фазового пеленгатора***
 </figure>
 
 <figure>
-<img src="C:/operator/Github/demos/DirFinderDiag.png" width="400"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/DirFinderDiag.png" width="400"/>
 
 ***Рисунок 2 - Схематичное изображение расположения антенн и области однозначной пеленгации***
 </figure>
@@ -72,7 +72,7 @@
 которые отчётливо видны вблизи 0°, -90° и 90° по азимуту.
 
 <figure>
-<img src="C:/operator/Github/demos/AzimuthError.png" width="800"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/AzimuthError.png" width="800"/>
 
 ***Рисунок 3 - Карта распределения погрешности азимута в диапазоне однозначности
 от 0° до 80° по углу возвышения и от -90° до 90° по азимуту***
@@ -88,7 +88,7 @@
 в 10°.
 
 <figure>
-<img src="C:/operator/Github/demos/ElevationError.png" width="800"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/ElevationError.png" width="800"/>
 
 ***Рисунок 4 - Карта распределения погрешности угла возвышения в диапазоне однозначности
 от 10° до 90° по углу возвышения и от -90° до 90° по азимуту***
@@ -104,7 +104,7 @@
 минимум для одной фазометрической базы при таких углах пеленгации.
 
 <figure>
-<img src="C:/operator/Github/demos/TotalError.png" width="800"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/TotalError.png" width="800"/>
 
 ***Рисунок 5 - Карта распределения суммарной погрешности углов азимута и
 возвышения в диапазоне однозначности от 10° до 80° по углу возвышения и
@@ -115,7 +115,7 @@
 ## Пример модели с изменяемым числом элементов
 
 <figure>
-<img src="C:/operator/Github/demos/SysVarElements.gif" width="700"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/SysVarElements.gif" width="700"/>
 </figure>
 
 ## Замечания
