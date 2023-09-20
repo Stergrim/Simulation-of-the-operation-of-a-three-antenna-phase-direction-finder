@@ -67,7 +67,7 @@
 </figure>
 
 <p float="left">
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/GiF2.gif" width="1000"/>
+<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/GiFDC.gif" width="1000"/>
 </p>
 
 ## Замечания
