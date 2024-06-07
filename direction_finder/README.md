@@ -43,7 +43,7 @@
 </figure>
 
 <figure>
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/PhaseDetect.png" width="600"/>
+<img src="/demos/PhaseDetect.png" width="600"/>
 
 ***Рисунок 2 - Принцип измерения фазовой задержки, где желтым и синим
 цветом – это сигналы между которыми измеряется разность фаз, зелёным
@@ -51,7 +51,7 @@
 </figure>
 
 <figure>
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/PeriodDetect.png" width="600"/>
+<img src="/demos/PeriodDetect.png" width="600"/>
 
 ***Рисунок 3 - Принцип измерения периода сигнала,
 где желтый – сигнал, красный – счётные импульсы,
@@ -59,7 +59,7 @@
 </figure>
 
 <figure>
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/CalcPhaseDiff.png" width="600"/>
+<img src="/demos/CalcPhaseDiff.png" width="600"/>
 
 ***Рисунок 4 - Принцип расчёта фазового сдвига, где синий – количество
 счётных импульсов, желтый – количество периодов сигнала***
@@ -73,7 +73,7 @@
 что показано на ***рисунке 5*** красной пунктирной линией.
 
 <figure>
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/ErrorPMD.png" width="600"/>
+<img src="/demos/ErrorPMD.png" width="600"/>
 
 ***Рисунок 5 - Среднее квадратичное отклонение измерений разности фаз цифровым фазометром***
 </figure>
