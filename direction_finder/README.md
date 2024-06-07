@@ -36,7 +36,7 @@
 случайные выбросы, когда измеренная разность фаз выходит за допустимый диапазон.
 
 <figure>
-<img src="https://github.com/Stergrim/Simulation-of-the-operation-of-a-three-antenna-phase-direction-finder/blob/main/demos/ModelPMD.png" width="1400"/>
+<img src="demos/ModelPMD.png" width="1400"/>
 
 ***Рисунок 1 - Разработанная модель измерителя разности фаз,
 принцип работы которого основан на схеме цифрового фазометра***
